@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ApiRequest"
+  "defaultProject": "ApiRequest",
+  "cli": {
+    "analytics": "0494ae41-f739-4d24-800d-96c327873038"
+  }
 }
